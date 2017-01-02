@@ -7,7 +7,7 @@
 Find me on the web:
 [hardlikealgebra](http://hardlikealgebra.com)
 [unfocused dev](http://unfocused.tech)
-[Portfolio-ish thing](http://jimwithington.com)
+[Portfolio-ish thing](http://jimwithington.com)  
 
 ## Sample Entries
 
