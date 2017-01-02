@@ -24,3 +24,4 @@
 * Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
 * If you have any questions or ideas about 100DaysOfHealthing (or other ideas), feel free to reach out to me on Twitter: [@jwithy](https://twitter.com/jwithy)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) 😀
+* Originally forked from the amazing [100 Days of Code](https://github.com/Kallaway/100-days-of-code) project. 🙌 ❤️
