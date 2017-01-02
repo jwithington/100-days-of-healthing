@@ -1,28 +1,39 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 100 Days Of Healthing Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+*I will work on my health and self care at least an hour a day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+January 3, 2017. [PUT YOUR DATE HERE]
 
-## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+## Rules (Okay, cool. How do I do it?)
 
+1. Work on your health and self care for *at least an hour a day*, starting on January 3, 2017.
+2. To track your progress, [fork this repo][myrepo]. Or consult the FAQ's below.
+3. Make a public commitment to the challenge. Use the hashtag #100DaysOfHealthing (preferably on Twitter) to announce your intentions.[^1]
+4. Tweet about your progress every day using the hashtag. I will, too, over [@jwithy][jwithy].
+5. I'll push my progress to Github every day. Follow it [here][gh]. You can, too!
 
-## Ideas to make this challenge more effective
-1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
-2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
-4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
-5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
+## Some notes and what-have-yous
+
+1. **Don't put yourself at risk.** This is important. For a coding project, you shouldn't be vague; for health, you might need to be.[^2] That's cool. Don't disclose anything that you wouldn't tell your family, your boss, your loved ones, or that dude who was a jerk to you in high school. "Completed my hour of self-care!" isn't vague -- it's acknowledging that some things need to stay private. See the FAQ's for more.
+2. **What constitutes self-care and health?** Well, that can totally vary from person to person, but here are some ways I think of it:
+	- Going to the doctor for something you've been putting off, or that requires ongoing attention.
+	- Meditating, praying, anything like that!
+	- Do you need permission to play a video game that totally helps you wind down after a hard day? You've got it!
+	- Are you addicted to said video game? Well, maybe reading a book instead would help your self care.
+	- Diagnosed with a thing? Reading about strategies to cope, [watching videos that help you learn a thing][howtoadhd], going to a support group...these are all healthing!
+	- What do you want to do that makes you feel like a better you? Coloring? Knitting? Cooking something for friends? Scented candles and tea? Do it do it do it. An hour for you.
+	3. **Hey I don't work in tech.** That's not an issue at all. See the FAQs below. All you need to join up is your desire to boost your health.
+	4. **Send me feedback.** I'm gonna try to make everything accessible and welcoming, but I'm still a middle-aged white dude with his own stuff. Hold me accountable! Contribute or post issues to the repo! Everybody wins!
 
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+[^1]: Why public?  Listen to Alex and Saron [discuss that](http://www.codenewbie.org/podcast/100-days-of-code).
+[^2]: I'm being vague, too. 😄
+[gh]: https://github.com/jwithington/100-days-of-healthing
+[howtoadhd]: https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q
