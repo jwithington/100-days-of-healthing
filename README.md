@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see everyone's progress](Participants)
+* [Participants - click here to see everyone's progress](Participants)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 

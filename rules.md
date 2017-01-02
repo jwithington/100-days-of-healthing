@@ -29,7 +29,7 @@ January 3, 2017. [PUT YOUR DATE HERE]
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](Participants)
+* [Participants - click here to see everyone's progress](Participants)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
