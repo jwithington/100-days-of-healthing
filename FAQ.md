@@ -19,10 +19,10 @@
 **Q:** If everyone started on a certain day, should I join them on the day they are? For example, from Day 12?<br />
 **A:** Go ahead and start on Day 1. Just mention the day you're on when you post about it!
 
-**Q:** What's a Github?
+**Q:** What's a Github?<br />
 **A:** Don't learn Github just for this project unless you want to.
 
-**Q:** Why "Healthing" and not "health?"
+**Q:** Why "Healthing" and not "health?"<br />
 **A:** Because internet.
 
 ## Contents
