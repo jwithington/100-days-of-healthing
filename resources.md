@@ -6,7 +6,8 @@
 - [Selfcare.tech][selfcare]
 - [Shine daily motivation texts][shine]
 - [750 Words][750]
-- Una's great [personal goals repo][goals].
+- Una's great [personal goals repo][goals]
+- [US Support Groups][support]
 
 ## Contents
 * [Rules](rules.md)
@@ -20,3 +21,4 @@
 [shine]: www.shinetext.com/?r=oMPO7gG
 [750]: http://750words.com/
 [goals]: https://github.com/una/personal-goals
+[support]: https://healthfinder.gov/FindServices/SearchContext.aspx?topic=833
