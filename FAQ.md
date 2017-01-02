@@ -27,8 +27,9 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](Participants)
+* [Participants - click here to see everyone's progress](Participants)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
 [fieldnotes]: https://fieldnotesbrand.com/
+[zenhab]: http://zenhabits.net/
