@@ -1,6 +1,6 @@
 ## FAQ's Partially Borrowed Based on 100 Days of Code and Then Tweaked
 
-**Q:** How do I get in touch with the people who are also doing this challenge?  
+**Q:** How do I get in touch with the people who are also doing this challenge?
 **A:** Search for #100DaysOfHealthing on Twitter. Also, I set up [@100DaysHealth](https://twitter.com/100DaysHealth) on Twitter; stay tuned!
 
 
