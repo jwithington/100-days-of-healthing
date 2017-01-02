@@ -33,7 +33,7 @@ January 3, 2017. [PUT YOUR DATE HERE]
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-<a name="myfootnote1">1</a>:Why public?  Listen to Alex and Saron [discuss that](http://www.codenewbie.org/podcast/100-days-of-code).
-<a name="myfootnote2">2</a>:I'm being vague, too. 😄
+<a name="myfootnote1">1</a> Why public?  Listen to Alex and Saron [discuss that](http://www.codenewbie.org/podcast/100-days-of-code).  
+<a name="myfootnote2">2</a> I'm being vague, too. 😄
 [gh]: https://github.com/jwithington/100-days-of-healthing
 [howtoadhd]: https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q

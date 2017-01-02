@@ -1,22 +1,8 @@
-## FAQ:
-  **Q:** How do I get in touch with the people who are also doing this challenge?
-  **A:** Search for #100DaysOfHealthing on Twitter. Also, I set up [@100DaysHealth](https://twitter.com/100DaysHealth) on Twitter; stay tuned!
+## FAQ's Partially Borrowed Based on 100 Days of Code and Then Tweaked
 
-  **Q:** I've already started the challenge, and I'm currently on Day 8. How can I start using this repo to track my progress?
-  **A:** Don't worry. Restore as much info on the previous days, but if you can't then just continue from where you are right now. If you have been tweeting about your progress every day, put the links to your tweets in the Log for each day. Then, follow the format.
+**Q:** How do I get in touch with the people who are also doing this challenge?
+**A:** Search for #100DaysOfHealthing on Twitter. Also, I set up [@100DaysHealth](https://twitter.com/100DaysHealth) on Twitter; stay tuned!
 
-  **Q:** I am new to coding (or just deciding to learn to code) and can’t build projects yet, what should I do?
-  **A:** The best way to start would be to follow the [FreeCodeCamp’s Front End Curriculum](https://www.freecodecamp.com/) from the very beginning. The further you get during the 100 days, the better.
-
-  **Q:** I’ve missed a day, does it mean I’ve failed the challenge?
-  **A:** Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.
-
-  **Q:** I come home late, and by the time I am finished with my hour, it’s past midnight, does it count?
-  **A:** Of course it counts! The rule of thumb is: have you coded for at least an hour before going to sleep that day? If yes, you are on track.
-  The reason for this is that we all have different schedules and different life periods (kids, school, work, and what have you) so don’t hold yourself to some arbitrary time standard. You will not experience what Cinderella experienced once the clock strikes midnight.
-  Don't worry whether you get a point on GitHub on that particular day. Yes, it’s nice to have them in a streak one by one, but don’t do yourself a disservice by measuring your efforts to a clock.
-
-  ## FAQ's Partially Borrowed Based on 100 Days of Code and Then Tweaked
 
 **Q:**The public part of this troubles me. What should I do?
 **A:**Whatever works best for you. Really. I mean, I'd love to hear it if you are participating, and letting people in your life know you're doing this can be super powerful. A casual "how's the 100 days going?" is super motivating! But! Getting 3+ months of awesomeness privately is better than not doing it because of the public component.
@@ -44,3 +30,5 @@
 * [Log - click here to see my progress](Participants)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+[fieldnotes]: https://fieldnotesbrand.com/
