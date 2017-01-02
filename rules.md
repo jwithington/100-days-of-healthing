@@ -9,14 +9,14 @@ January 3, 2017. [PUT YOUR DATE HERE]
 ## Rules (Okay, cool. How do I do it?)
 
 1. Work on your health and self care for *at least an hour a day*, starting on January 3, 2017.
-2. To track your progress, [fork this repo][myrepo]. Or consult the FAQ's below.
-3. Make a public commitment to the challenge. Use the hashtag #100DaysOfHealthing (preferably on Twitter) to announce your intentions.[^1]
+2. To track your progress, [fork this repo][gh]. Or consult the FAQ's below.
+3. Make a public commitment to the challenge. Use the hashtag #100DaysOfHealthing (preferably on Twitter) to announce your intentions.<sup>[1](#myfootnote1)</sup>
 4. Tweet about your progress every day using the hashtag. I will, too, over [@jwithy][jwithy].
 5. I'll push my progress to Github every day. Follow it [here][gh]. You can, too!
 
 ## Some notes and what-have-yous
 
-1. **Don't put yourself at risk.** This is important. For a coding project, you shouldn't be vague; for health, you might need to be.[^2] That's cool. Don't disclose anything that you wouldn't tell your family, your boss, your loved ones, or that dude who was a jerk to you in high school. "Completed my hour of self-care!" isn't vague -- it's acknowledging that some things need to stay private. See the FAQ's for more.
+1. **Don't put yourself at risk.** This is important. For a coding project, you shouldn't be vague; for health, you might need to be.<sup>[1](#myfootnote2)</sup> That's cool. Don't disclose anything that you wouldn't tell your family, your boss, your loved ones, or that dude who was a jerk to you in high school. "Completed my hour of self-care!" isn't vague -- it's acknowledging that some things need to stay private. See the [FAQ's](FAQ.md) for more.
 2. **What constitutes self-care and health?** Well, that can totally vary from person to person, but here are some ways I think of it:
 	- Going to the doctor for something you've been putting off, or that requires ongoing attention.
 	- Meditating, praying, anything like that!
@@ -33,7 +33,7 @@ January 3, 2017. [PUT YOUR DATE HERE]
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-[^1]: Why public?  Listen to Alex and Saron [discuss that](http://www.codenewbie.org/podcast/100-days-of-code).
-[^2]: I'm being vague, too. 😄
+<a name="myfootnote1">1</a>:Why public?  Listen to Alex and Saron [discuss that](http://www.codenewbie.org/podcast/100-days-of-code).
+<a name="myfootnote2">2</a>:I'm being vague, too. 😄
 [gh]: https://github.com/jwithington/100-days-of-healthing
 [howtoadhd]: https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q
