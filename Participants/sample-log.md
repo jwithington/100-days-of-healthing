@@ -1,7 +1,6 @@
 # Participant Journal
 
 **Name:** Awesome Human
-
 **Twitter:** [@CuteEmergency](https://twitter.com/CuteEmergency)
 
 Remember: this is public, so **don't put yourself at risk**. Don't include anything you wouldn't tell your family, your boss, your loved ones, or that dude who was a jerk to you in high school.
