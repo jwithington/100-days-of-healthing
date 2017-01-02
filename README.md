@@ -7,7 +7,7 @@
 * [Resources](resources.md)
 
 ## If you've decided to join:
-1. Read [Join the #100DaysOfHealthing](coming soon)
+1. Read [Join the #100DaysOfHealthing](https://medium.com/@jwithy/100-days-of-healthing-87b2ea71dba9)
 2. Fork the repo
 3. **Work on health and self care at least an hour a day for the next 100 days.**
 4. Make your own copy of the [sample log file](sample-log.md), and name it with your name, twitter handle, or whatever.
