@@ -24,7 +24,7 @@ January 3, 2017. [PUT YOUR DATE HERE]
 	- Are you addicted to said video game? Well, maybe reading a book instead would help your self care.
 	- Diagnosed with a thing? Reading about strategies to cope, [watching videos that help you learn a thing][howtoadhd], going to a [support group][support]...these are all healthing!
 	- What do you want to do that makes you feel like a better you? Coloring? Knitting? Cooking something for friends? Scented candles and tea? Do it do it do it. An hour for you.
-3. **Hey I don't work in tech.** That's not an issue at all. See the [FAQs](FAQ.md). All you need to join up is your desire to boost your health.
+3. **Hey I don't work in tech.** That's not an issue at all. See the [FAQs](FAQ.md). All you need to join up is your desire to boost your health!
 4. **Send me feedback.** I'm gonna try to make everything accessible and welcoming, but I'm still a [middle-aged white dude][hla] with [his own stuff][unfocused]. Hold me accountable! Contribute or post issues to the repo! Everybody wins!
 
 ## Contents
@@ -34,7 +34,9 @@ January 3, 2017. [PUT YOUR DATE HERE]
 * [Resources](resources.md)
 
 <a name="myfootnote1">1</a> Why public?  Listen to Alex and Saron [discuss that](http://www.codenewbie.org/podcast/100-days-of-code).
+
 <a name="myfootnote2">2</a> I'm being vague, too. 😄
+
 [gh]: https://github.com/jwithington/100-days-of-healthing
 [howtoadhd]: https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q
 [jwithy]: https://twitter.com/jwithy
