@@ -1,6 +1,7 @@
 # Participant Journal
 
 **Name:** Jim W
+
 **Twitter:** [@jwithy](https://twitter.com/jwithy)
 
 Find me on the web:
