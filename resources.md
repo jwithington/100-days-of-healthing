@@ -18,7 +18,7 @@
 [resolutions]: http://www.kungfugrippe.com/post/2572566804/fresh-starts
 [crank]: http://www.43folders.com/2011/04/22/cranking
 [selfcare]: http://selfcare.tech
-[shine]: www.shinetext.com/?r=oMPO7gG
+[shine]: http://www.shinetext.com/?r=oMPO7gG
 [750]: http://750words.com/
 [goals]: https://github.com/una/personal-goals
 [support]: https://healthfinder.gov/FindServices/SearchContext.aspx?topic=833
