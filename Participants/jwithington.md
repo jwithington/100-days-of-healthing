@@ -12,7 +12,7 @@
 
 [Portfolio-ish thing](http://jimwithington.com)
 
-### Day 1: Jan 3, 2017 (Example 1)
+### Day 1: Jan 3, 2017
 
 **What I did**
 - Meditation using Headspace 10 min
@@ -23,7 +23,7 @@
 
 I like the idea of an hour straight thru, but that didn't happen today. I also need to think of bedtime as self-care; stayed up way too late with that bath! 🛁
 
-### Day 2: Jan 4, 2017 (Example 2)
+### Day 2: Jan 4, 2017
 
 **What I did**
 - Headspace commuting meditation 10 min
