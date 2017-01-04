@@ -12,21 +12,21 @@
 
 [Portfolio-ish thing](http://jimwithington.com)
 
-## Sample Entries
-
 ### Day 1: Jan 3, 2017 (Example 1)
 
 **What I did**
+- Meditation using Headspace 10 min
+- bath 45 min
+- Doctor appointment / took care of prescription right away
 
 **Thoughts**
 
-**Link**
-
-[My Repo](https://github.com/jwithington/100-days-of-healthing)
+I like the idea of an hour straight thru, but that didn't happen today. I also need to think of bedtime as self-care; stayed up way too late with that bath! 🛁
 
 ### Day 2: Jan 4, 2017 (Example 2)
 
 **What I did**
+- Headspace commuting meditation 10 min
 
 **Thoughts**
 
