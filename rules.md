@@ -4,7 +4,7 @@
 *I will work on my health and self care at least an hour a day for the next 100 days.*
 
 #### Start Date
-January 3, 2017. [PUT YOUR DATE HERE]
+January 3, 2017.
 
 ## Rules (Okay, cool. How do I do it?)
 
