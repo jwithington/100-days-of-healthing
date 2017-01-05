@@ -15,6 +15,7 @@
 ### Day 1: Jan 3, 2017
 
 **What I did**
+
 - Meditation using Headspace 10 min
 - bath 45 min
 - Doctor appointment / took care of prescription right away
@@ -26,8 +27,14 @@ I like the idea of an hour straight thru, but that didn't happen today. I also n
 ### Day 2: Jan 4, 2017
 
 **What I did**
-- Headspace commuting meditation 10 min
+
+- Headspace commuting meditation 10 min. 
+- Attended a Zen Service (7-915pm)
 
 **Thoughts**
 
+Great to be back at a sangha. 
+
 **Link**
+
+[No Rank Zendo](http://www.norankzendo.org/)
