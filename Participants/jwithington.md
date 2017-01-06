@@ -43,7 +43,7 @@ Great to be back at a sangha.
 
 **What I did**
 
-- Read a lot of Radical Acceptance 📖
+- Read / listened to a lot of [Radical Acceptance](https://www.amazon.com/dp/B000FC2NHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
 - Took a bath 🛁
 - Meditated 🙏
 
