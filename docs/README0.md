@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Participants - click here to see everyone's progress](Participants)
+<!-- * [Participants - click here to see everyone's progress](Participants) -->
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
@@ -13,7 +13,7 @@
 4. Make your own copy of the [sample log file](sample-log.md), and name it with your name, twitter handle, or whatever.
 5. Delete the examples in the sample (or comment them out), and start filling it with your own content.
 6. Use that file to update your progress however you'd like (sample below, if you want one!)
-7. [Submit a pull request](https://github.com/jwithington/100-days-of-healthing/pulls) to have your progress added to the main repo! Note: please submit only your participant log with that pull request; otherwise, it might gum up the repo a bit. 
+7. [Submit a pull request](https://github.com/jwithington/100-days-of-healthing/pulls) to have your progress added to the main repo! Note: please submit only your participant log with that pull request; otherwise, it might gum up the repo a bit.
 8. Change the date in [Rules](rules.md) to the day you've started the challenge.
 9. **Tweet your progress every day using the #100DaysOfHealthing hashtag.**
 10. Follow [100DaysOfHealthing](https://twitter.com/@100DaysHealth) on Twitter. *coming soon*
