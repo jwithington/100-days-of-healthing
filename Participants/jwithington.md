@@ -59,10 +59,30 @@ Today was a challenge for my #100Days.  I still need to get better about going t
 
 **What I did**
 
+- Acupuncture.  She worked on my back, because it needs it, and it was scary but I managed! And that's a big thing, too.
+- Therapy.
+- Watched half a movie with Erin
+- Short meditation
+
 **Thoughts**
+
+This feels like cheating, though maybe it shouldn't? Part of why I began this projeect was that I have a ton of things going on with health and so 1 hour a day of Code was gonna be hard. I also sorta wanted to frame it in a bigger frame of "this really is a project!" Yet, "I went to my appointment and then I went to my other appointment" seems like a cop out.
+
+Why?
+
+That's a thing to reflect upon, I think.
 
 **Link**
 
+[Self Care Tattoos](https://motivationaltattoos.com/collections/motivational-tattoos/products/original-motivational-tattoo-pack)
+
+### Day 5: 010717
+
+**What I did**
+
+**Thoughts**
+
+**Link**
 
 ***
 
