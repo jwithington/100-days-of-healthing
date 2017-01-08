@@ -79,6 +79,26 @@ That's a thing to reflect upon, I think.
 ### Day 5: 010717
 
 **What I did**
+- finished watching a movie with Erin 📽️
+- meditation break with Erin 🙏
+- walks with friends 🚶
+- tea at heart (while working, but still)
+
+**Thoughts**
+
+On "cheating":  I found a good bit of writing (below) that suggested that things like taking care of doctor/professonal care stuff is definitely self-care. As it said:
+
+>It's important to recognise when you need to see a doctor, therapist or natural healer.
+
+After reading it, I thought, "duh." But the reminder was good.
+
+**Link**
+
+[Self-care: coping and healing](https://www.takebackthetech.net/be-safe/self-care-coping-and-healing)
+
+### Day 6:  010817
+
+**What I did**
 
 **Thoughts**
 
