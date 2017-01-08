@@ -83,6 +83,7 @@ That's a thing to reflect upon, I think.
 - meditation break with Erin 🙏
 - walks with friends 🚶
 - tea at heart (while working, but still)
+- Listened to [On Being](http://www.onbeing.org/program/maria-popova-cartographer-of-meaning-in-a-digital-age/7580)
 
 **Thoughts**
 
