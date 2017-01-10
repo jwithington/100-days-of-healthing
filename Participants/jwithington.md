@@ -101,7 +101,17 @@ After reading it, I thought, "duh." But the reminder was good.
 
 **What I did**
 
-**Thoughts**
+**Reflection**
+
+**Link**
+
+***
+
+### Day 7:  010917
+
+**What I did**
+
+**Reflection**
 
 **Link**
 
@@ -111,6 +121,6 @@ After reading it, I thought, "duh." But the reminder was good.
 
 **What I did**
 
-**Thoughts**
+**Reflection**
 
 **Link**
