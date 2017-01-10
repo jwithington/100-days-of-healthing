@@ -116,7 +116,23 @@ All day I tried to just...color. At the coffee table. I kept resisting. It was i
 **What I did**
 
 - coloring/meditation break at work
-- coffee reward
+- coffee reward for workin' hard
+- coloring at home with the dog
+- meditation (i meditate every day so yeah)
+
+**Reflection**
+
+My work gives us 3 times a day when we can meditate, and I set an intention for the week to use one or more of them each day, even when I work from home. For day 7, I used the 12:45pm slot, which is meditation and/or coloring & drawing. It was nice!
+
+I noticed I was pretty tense today. Gonna try and figure that out.
+
+**Link**
+
+[The Difficult Art of Self-Compassion](https://www.brainpickings.org/2016/09/05/school-of-life-self-compassion/)
+
+### Day 7: 1/10/17
+
+**What I did**
 
 **Reflection**
 
@@ -124,7 +140,7 @@ All day I tried to just...color. At the coffee table. I kept resisting. It was i
 
 ***
 
-### Day x: DATE 2017
+### Day x: DATE 17
 
 **What I did**
 
