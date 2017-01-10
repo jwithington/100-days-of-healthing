@@ -100,16 +100,23 @@ After reading it, I thought, "duh." But the reminder was good.
 ### Day 6:  010817
 
 **What I did**
+- nice bath 🛁
+- watched my stories
+- headspace meditation
+- set up journal for the week
 
 **Reflection**
 
-**Link**
+All day I tried to just...color. At the coffee table. I kept resisting. It was interesting!  And I'm wondering why, of course.
 
 ***
 
 ### Day 7:  010917
 
 **What I did**
+
+- coloring/meditation break at work
+- coffee reward
 
 **Reflection**
 
