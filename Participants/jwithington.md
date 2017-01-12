@@ -144,10 +144,16 @@ Things are feeling more anxious these days, likely work-related. I gotta conside
 ### Day 9: 1/11/17
 
 **What I did**
+- meditate (always)
+- nice snow time and lunchy with erin
 
 **Reflection**
 
+Today almost feels like a day when, actually, I missed a day. Hard to explain why, but things didn't feel like "Taking care of myself" type things, today.
+
 **Link**
+
+[7 ways to reduce anxiety in your home through design](http://www.aestheticsofjoy.com/2016/11/5747/)
 
 ***
 
