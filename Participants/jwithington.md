@@ -155,6 +155,27 @@ Today almost feels like a day when, actually, I missed a day. Hard to explain wh
 
 [7 ways to reduce anxiety in your home through design](http://www.aestheticsofjoy.com/2016/11/5747/)
 
+### Day 10: 1/12/17
+
+**What I did**
+- went to bed very very early, stayed in bed almost 12 hours
+- went for a walk and got drinking chocolte cuz I was having a tough time
+- made an important phone call / reached out to friends re: tough time
+
+**Reflection**
+
+One of the good things about keeping this running tally is seeing a pattern of "oh hey, yeah, I've been having a hard time." Here's to improvements there.
+
+**Link**
+
+###Day 11 1/13/17
+
+**What I did**
+
+**Reflection**
+
+**Link**
+
 ***
 
 ### Day x: DATE 17
