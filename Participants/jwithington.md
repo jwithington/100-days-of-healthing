@@ -4,7 +4,7 @@
 
 **Twitter:** [@jwithy](https://twitter.com/jwithy)
 
-## Find me on the web:
+## Find me on the web
 
 [hardlikealgebra](http://hardlikealgebra.com)
 
@@ -16,9 +16,9 @@
 
 **What I did**
 
-- Meditation using Headspace 10 min
-- bath 45 min
-- Doctor appointment / took care of prescription right away
+-   Meditation using Headspace 10 min
+-   bath 45 min
+-   Doctor appointment / took care of prescription right away
 
 **Thoughts**
 
@@ -28,8 +28,8 @@ I like the idea of an hour straight thru, but that didn't happen today. I also n
 
 **What I did**
 
-- Headspace commuting meditation 10 min.
-- Attended a Zen Service (7-915pm)
+-   Headspace commuting meditation 10 min.
+-   Attended a Zen Service (7-915pm)
 
 **Thoughts**
 
@@ -43,9 +43,9 @@ Great to be back at a sangha.
 
 **What I did**
 
-- Read / listened to a lot of [Radical Acceptance](https://www.amazon.com/dp/B000FC2NHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
-- Took a bath 🛁
-- Meditated 🙏
+-   Read / listened to a lot of [Radical Acceptance](https://www.amazon.com/dp/B000FC2NHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) 📖
+-   Took a bath 🛁
+-   Meditated 🙏
 
 **Thoughts**
 
@@ -59,10 +59,10 @@ Today was a challenge for my #100Days.  I still need to get better about going t
 
 **What I did**
 
-- Acupuncture.  She worked on my back, because it needs it, and it was scary but I managed! And that's a big thing, too.
-- Therapy.
-- Watched half a movie with Erin
-- Short meditation
+-   Acupuncture.  She worked on my back, because it needs it, and it was scary but I managed! And that's a big thing, too.
+-   Therapy.
+-   Watched half a movie with Erin
+-   Short meditation
 
 **Thoughts**
 
@@ -79,11 +79,12 @@ That's a thing to reflect upon, I think.
 ### Day 5: 010717
 
 **What I did**
-- finished watching a movie with Erin 📽️
-- meditation break with Erin 🙏
-- walks with friends 🚶
-- tea at heart (while working, but still)
-- Listened to [On Being](http://www.onbeing.org/program/maria-popova-cartographer-of-meaning-in-a-digital-age/7580)
+
+-   finished watching a movie with Erin 📽️
+-   meditation break with Erin 🙏
+-   walks with friends 🚶
+-   tea at heart (while working, but still)
+-   Listened to [On Being](http://www.onbeing.org/program/maria-popova-cartographer-of-meaning-in-a-digital-age/7580)
 
 **Thoughts**
 
@@ -100,10 +101,11 @@ After reading it, I thought, "duh." But the reminder was good.
 ### Day 6:  010817
 
 **What I did**
-- nice bath 🛁
-- watched my stories
-- headspace meditation
-- set up journal for the week
+
+-   nice bath 🛁
+-   watched my stories
+-   headspace meditation
+-   set up journal for the week
 
 **Reflection**
 
@@ -115,10 +117,10 @@ All day I tried to just...color. At the coffee table. I kept resisting. It was i
 
 **What I did**
 
-- coloring/meditation break at work 🙏
-- coffee reward for workin' hard ☕
-- coloring at home with the dog 🐶
-- meditation (i meditate every day so yeah) 🙏
+-   coloring/meditation break at work 🙏
+-   coffee reward for workin' hard ☕
+-   coloring at home with the dog 🐶
+-   meditation (i meditate every day so yeah) 🙏
 
 **Reflection**
 
@@ -133,9 +135,10 @@ I noticed I was pretty tense today, and its carrying into Tuesday. Gonna try and
 ### Day 8: 1/10/17
 
 **What I did**
-- daily meditation (Headspace this time 💪)
-- snow time with erin and tot
-- acupuncture
+
+-   daily meditation (Headspace this time 💪)
+-   snow time with erin and tot
+-   acupuncture
 
 **Reflection**
 
@@ -144,8 +147,9 @@ Things are feeling more anxious these days, likely work-related. I gotta conside
 ### Day 9: 1/11/17
 
 **What I did**
-- meditate (always)
-- nice snow time and lunchy with erin
+
+-   meditate (always)
+-   nice snow time and lunchy with erin
 
 **Reflection**
 
@@ -158,28 +162,34 @@ Today almost feels like a day when, actually, I missed a day. Hard to explain wh
 ### Day 10: 1/12/17
 
 **What I did**
-- went to bed very very early, stayed in bed almost 12 hours
-- went for a walk and got drinking chocolte cuz I was having a tough time
-- made an important phone call / reached out to friends re: tough time
+
+-   went to bed very very early, stayed in bed almost 12 hours
+-   went for a walk and got drinking chocolte cuz I was having a tough time
+-   made an important phone call / reached out to friends re: tough time
 
 **Reflection**
 
 One of the good things about keeping this running tally is seeing a pattern of "oh hey, yeah, I've been having a hard time." Here's to improvements there.
 
-###Day 11 1/13/17
+### Day 11 1/13/17
 
 **What I did**
-- watched a ton of Bob's Burgers with Erin
-- Headspace meditation
-- Called doctor cuz things need to change.
+
+-   watched a ton of Bob's Burgers with Erin
+-   Headspace meditation
+-   Called doctor cuz things need to change.
 
 **Reflection**
+
 Today kinda sucked.
 
 ### Day 12: 1/14/17
 
 **What I did**
-- some nice work time at VeloCult
+
+-   some nice work time at VeloCult
+-   watched a movie with Bean and Erin
+-   finally showered 😂
 
 **Reflection**
 
