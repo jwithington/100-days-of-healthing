@@ -190,6 +190,19 @@ Today kinda sucked.
 -   some nice work time at VeloCult
 -   watched a movie with Bean and Erin
 -   finally showered 😂
+-   short meditation (of course)
+
+**Reflection**
+
+Today was a mixed bag for self-care, but a really good one as far as conscious living. And in some ways I think that's even more what I'm hoping for. I helped Erin to the doctor, I watched a movie without looking at my phone every wo minutes, and I genuinely felt a bit hopeful about the weekend and the week. That's good stuff!
+
+**Link**
+
+[John Cheever on the Pain of Loneliness and How It Feeds the Beauty and Creative Restlessness of Youth](https://www.brainpickings.org/2017/01/12/john-cheever-loneliness/)
+
+### Day 13: 1/15/17
+
+**What I did**
 
 **Reflection**
 
