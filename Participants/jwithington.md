@@ -166,11 +166,20 @@ Today almost feels like a day when, actually, I missed a day. Hard to explain wh
 
 One of the good things about keeping this running tally is seeing a pattern of "oh hey, yeah, I've been having a hard time." Here's to improvements there.
 
-**Link**
-
 ###Day 11 1/13/17
 
 **What I did**
+- watched a ton of Bob's Burgers with Erin
+- Headspace meditation
+- Called doctor cuz things need to change.
+
+**Reflection**
+Today kinda sucked.
+
+### Day 12: 1/14/17
+
+**What I did**
+- some nice work time at VeloCult
 
 **Reflection**
 
