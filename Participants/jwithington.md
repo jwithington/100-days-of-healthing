@@ -226,6 +226,29 @@ Proof positive that an earlier schedule -- and having someone counting on me -- 
 **Link**
 We got added to [Self Care Tech](selfcare.tech)!
 
+### Day 15: 1/17/17
+
+**What I did**
+
+- headspace meditation during the regular work meditation break
+- ran for groceries to get my eggs!!!
+- olives for erin (i like helping people / doing nice things)
+- pints with Ryan/Josh 👎👍
+
+**Reflection**
+
+It almost felt like I skipped a day...but the meditation break was important. Taking care of erin and me with groceries was, too.
+Pints were a bit much. But the extrovert in me was sooo happppy
+
+### Day 16: 1/18/17
+
+**What I did**
+- got my immunizations!
+
+**Reflection**
+
+**Link**
+
 ***
 
 ### Day x: DATE 17
