@@ -204,9 +204,27 @@ Today was a mixed bag for self-care, but a really good one as far as conscious l
 
 **What I did**
 
+- went to bed when i got tired instead of waiting
+- awesome tea and good creative time at good coffee
+
 **Reflection**
 
+This day set me up for a great Monday!
+
+### Day 14: 1/16/17
+
+**What I did**
+
+- Went to Heart and worked a bit
+- Went to bed instead of staying up later
+- Got up early enough to have the whole day make sense
+
+**Reflection**
+
+Proof positive that an earlier schedule -- and having someone counting on me -- leads to good habits. Sometimes self-care is just making sure to get the right sleep, etc.
+
 **Link**
+We got added to [Self Care Tech](selfcare.tech)!
 
 ***
 
