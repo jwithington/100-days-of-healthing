@@ -244,10 +244,17 @@ Pints were a bit much. But the extrovert in me was sooo happppy
 
 **What I did**
 - got my immunizations!
+- filled out my passport
+- did most of my taxes
+- ate good lunch
+- cancelled night time stuff and watched a movie with erin
 
 **Reflection**
+Erm, well, the passport and taxes stuff was kinda...hard on me. And kept me up late.
 
 **Link**
+
+[Gleason](example.com)
 
 ***
 
