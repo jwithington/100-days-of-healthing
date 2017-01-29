@@ -340,6 +340,7 @@ I definitely should have gone to bed much MUCH earlier.
 - worked on some tough stuff with RB
 - took some time to reflect with tea at Heart
 - great wfh day
+- made it to the zen center! big stuff. centering.
 
 **Reflection**
 
