@@ -256,6 +256,151 @@ Erm, well, the passport and taxes stuff was kinda...hard on me. And kept me up l
 
 [Gleason](example.com)
 
+### Day 17: 1/19/17 (Thursday)
+
+**What I did**
+
+-  nice supper with Erin
+-  sent my passport
+
+**Reflection**
+
+### Day 18: 1/20/17 (Friday)
+
+**What I did**
+
+-   looong bath
+-   acupuncture (good stuff to counteract election sads)
+- nice tea
+
+**Reflection**
+
+This is one of many days I am recreating way after the fact. No details!
+
+### Day 19: 1/21/17 (Saturday)
+
+**What I did**
+
+We went to the women's march. I had a panic attack and I don't think I can count this as a day that counts.
+
+**Reflection**
+
+This is one of many days I am recreating way after the fact. No details!
+
+***
+
+### Day 20: 1/22/17 (Sunday)
+
+**What I did**
+
+- D&D With peeps
+- nice tea at heart
+- i believe i took a bath?
+
+**Reflection**
+
+This is one of many days I am recreating way after the fact. No details!
+
+***
+
+### Day 21: 1/23/17 (Monday)
+
+**What I did**
+
+- good tea
+- important doc appointment
+- was easy on myself
+
+**Reflection**
+
+This is one of many days I am recreating way after the fact. No details!
+
+***
+
+### Day 22: 1/24/17 (Tuesday)
+
+**What I did**
+
+- went to awesome show with Erin
+
+**Reflection**
+
+I definitely should have gone to bed much MUCH earlier.
+
+**Link**
+
+[John K. Samson!](https://johnksamsonmusic.bandcamp.com/releases)
+
+***
+
+### Day 23: 1/25/17 (Wednesday)
+
+**What I did**
+
+- worked on some tough stuff with RB
+- took some time to reflect with tea at Heart
+- great wfh day
+
+**Reflection**
+
+I took the time to decompress when needed, even during my workday. This was smart.
+
+***
+
+### Day 24: 1/26/17 (Thurs)
+
+**What I did**
+
+- lotsa good walking
+- good amount of sleep
+- watched a movie with erin
+
+**Reflection**
+
+I really slid right into "yeah, let's watch that!" So glad.
+
+***
+
+### Day 25: 1/27/17 (Friday)
+
+**What I did**
+
+- video games (cuz i wanted to actually take the night off)
+
+**Reflection**
+
+I'm slacking a bit. Hopefully, being caught up will give me more momentum.
+
+**Link**
+
+[Hey there How To ADHD!](https://twitter.com/HowtoADHD/status/825218071614758912)
+
+***
+
+### Day 26: 1/28/17 (Saturday)
+
+**What I did**
+
+- Risk Legacy with peeps
+- Longer talk with Joe
+- Nice tea at Good
+-
+**Reflection**
+
+Friends are important!
+
+**Link**
+
+***
+
+### Day 27: 1/29/17 (Sunday)
+
+**What I did**
+
+**Reflection**
+
+**Link**
+
 ***
 
 ### Day x: DATE 17
