@@ -384,13 +384,28 @@ I'm slacking a bit. Hopefully, being caught up will give me more momentum.
 
 - Risk Legacy with peeps
 - Longer talk with Joe
-- Nice tea at Good
--
+- Nice tea at Good (including some reflective bullet journal stuff)
+- good friend talks
+
 **Reflection**
 
 Friends are important!
 
 **Link**
+
+***
+
+### Day 27: 1/29/17 (Sunday)
+
+**What I did**
+
+- Quiet reading at the end of the night
+- Asked for stuff I needed 
+- took night mostly of from chores
+
+**Reflection**
+
+Great day overall. Had some stress points where I thought of meditation exercises when needing took calm. 
 
 ***
 
