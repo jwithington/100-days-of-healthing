@@ -401,7 +401,7 @@ Friends are important!
 
 - Quiet reading at the end of the night
 - Asked for stuff I needed 
-- took night mostly of from chores
+- took night mostly off from chores
 
 **Reflection**
 
