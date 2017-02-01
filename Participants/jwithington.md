@@ -400,18 +400,49 @@ Friends are important!
 **What I did**
 
 - Quiet reading at the end of the night
-- Asked for stuff I needed 
+- Asked for stuff I needed
 - took night mostly off from chores
 
 **Reflection**
 
-Great day overall. Had some stress points where I thought of meditation exercises when needing took calm. 
+Great day overall. Had some stress points where I thought of meditation exercises when needing took calm.
 
 ***
 
 ### Day 27: 1/29/17 (Sunday)
 
 **What I did**
+
+- took the night off from obligations after we got home
+
+**Reflection**
+
+as below: i need to update sooner!
+
+***
+
+### Day 28: 1/30/17 (Monday)
+
+**What I did**
+
+- meditation
+- watched a movie (though i was up late, which is 👎)
+- drank some good tea
+- read some good stuff
+
+**Reflection**
+
+I know I did more, but I forgot it! Guess I need to write it down sooner next time. Last night was a tough one, but taking care of me helped.
+
+***
+
+### Day 29: 1/31/17 (Tuesday)
+
+**What I did**
+
+- meditation break at work
+- headed home to work for the afternoon so i could travel in sunlight
+- bath! (planned)
 
 **Reflection**
 
