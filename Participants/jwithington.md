@@ -471,10 +471,29 @@ Surprised myself by keeping my own promise to go to bed early!
 **What I did**
 
 - at work meditation
+- walked it out when i got upset
+- consciously playing games for self-care
+- watched shows with erin
 
 **Reflection**
 
-Surprised myself by keeping my own promise to go to bed early!
+Today sucked. Meditiation helped. I need to get better at going to bed on time.
+
+***
+
+### Day 31: DATE 2/3/17 (Friday)
+
+**What I did**
+
+- during work Headspace meditation.
+- acupuncture (scheduled)
+
+**Reflection**
+
+Hit 300 consecutive days meditating today! 🎊 🎉 🙌 🙏
+
+**Link**
+
 
 ***
 
