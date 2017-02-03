@@ -442,11 +442,39 @@ I know I did more, but I forgot it! Guess I need to write it down sooner next ti
 
 - meditation break at work
 - headed home to work for the afternoon so i could travel in sunlight
-- bath! (planned)
+- bath!
 
 **Reflection**
 
-**Link**
+Committing to the bath was smart!
+
+Not getting sleep, however.....
+
+***
+
+### Day 30: 2/1/17 (Wednesday)
+
+**What I did**
+
+- went to bed at 9:30
+- conscious effort to not use my phone much at night
+- ended work early after therapy
+
+**Reflection**
+
+Surprised myself by keeping my own promise to go to bed early!
+
+***
+
+### Day 30: 2/2/17 (Thursday)
+
+**What I did**
+
+- at work meditation
+
+**Reflection**
+
+Surprised myself by keeping my own promise to go to bed early!
 
 ***
 
@@ -457,3 +485,5 @@ I know I did more, but I forgot it! Guess I need to write it down sooner next ti
 **Reflection**
 
 **Link**
+
+***
