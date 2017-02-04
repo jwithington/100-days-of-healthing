@@ -409,18 +409,6 @@ Great day overall. Had some stress points where I thought of meditation exercise
 
 ***
 
-### Day 27: 1/29/17 (Sunday)
-
-**What I did**
-
-- took the night off from obligations after we got home
-
-**Reflection**
-
-as below: i need to update sooner!
-
-***
-
 ### Day 28: 1/30/17 (Monday)
 
 **What I did**
@@ -466,7 +454,7 @@ Surprised myself by keeping my own promise to go to bed early!
 
 ***
 
-### Day 30: 2/2/17 (Thursday)
+### Day 31: 2/2/17 (Thursday)
 
 **What I did**
 
@@ -481,7 +469,7 @@ Today sucked. Meditiation helped. I need to get better at going to bed on time.
 
 ***
 
-### Day 31: DATE 2/3/17 (Friday)
+### Day 32: DATE 2/3/17 (Friday)
 
 **What I did**
 
