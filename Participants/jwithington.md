@@ -384,8 +384,9 @@ I'm slacking a bit. Hopefully, being caught up will give me more momentum.
 
 - Risk Legacy with peeps
 - Longer talk with Joe
-- Nice tea at Good
--
+- Nice tea at Good (including some reflective bullet journal stuff)
+- good friend talks
+
 **Reflection**
 
 Friends are important!
