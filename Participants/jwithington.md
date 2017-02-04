@@ -399,9 +399,101 @@ Friends are important!
 
 **What I did**
 
+- Quiet reading at the end of the night
+- Asked for stuff I needed
+- took night mostly off from chores
+
 **Reflection**
 
+Great day overall. Had some stress points where I thought of meditation exercises when needing took calm.
+
+***
+
+### Day 27: 1/29/17 (Sunday)
+
+**What I did**
+
+- took the night off from obligations after we got home
+
+**Reflection**
+
+as below: i need to update sooner!
+
+***
+
+### Day 28: 1/30/17 (Monday)
+
+**What I did**
+
+- meditation
+- watched a movie (though i was up late, which is 👎)
+- drank some good tea
+- read some good stuff
+
+**Reflection**
+
+I know I did more, but I forgot it! Guess I need to write it down sooner next time. Last night was a tough one, but taking care of me helped.
+
+***
+
+### Day 29: 1/31/17 (Tuesday)
+
+**What I did**
+
+- meditation break at work
+- headed home to work for the afternoon so i could travel in sunlight
+- bath!
+
+**Reflection**
+
+Committing to the bath was smart!
+
+Not getting sleep, however.....
+
+***
+
+### Day 30: 2/1/17 (Wednesday)
+
+**What I did**
+
+- went to bed at 9:30
+- conscious effort to not use my phone much at night
+- ended work early after therapy
+
+**Reflection**
+
+Surprised myself by keeping my own promise to go to bed early!
+
+***
+
+### Day 30: 2/2/17 (Thursday)
+
+**What I did**
+
+- at work meditation
+- walked it out when i got upset
+- consciously playing games for self-care
+- watched shows with erin
+
+**Reflection**
+
+Today sucked. Meditiation helped. I need to get better at going to bed on time.
+
+***
+
+### Day 31: DATE 2/3/17 (Friday)
+
+**What I did**
+
+- during work Headspace meditation.
+- acupuncture (scheduled)
+
+**Reflection**
+
+Hit 300 consecutive days meditating today! 🎊 🎉 🙌 🙏
+
 **Link**
+
 
 ***
 
@@ -412,3 +504,5 @@ Friends are important!
 **Reflection**
 
 **Link**
+
+***
