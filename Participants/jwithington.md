@@ -475,13 +475,60 @@ Today sucked. Meditiation helped. I need to get better at going to bed on time.
 
 - during work Headspace meditation.
 - acupuncture (scheduled)
+- went to bed WHEN I WAS TIRED
 
 **Reflection**
 
 Hit 300 consecutive days meditating today! 🎊 🎉 🙌 🙏
 
+Going to bed early made for a great, great Saturday
+
+***
+
+### Day 33: 2/4/17 (Saturday)
+
+**What I did**
+
+- got up early and worked (this actually was self-care, cuz it led from yesterday and led to....)
+- nice time with Erin
+
+**Reflection**
+
+I love getting half days on the weekends. Really helps me feel good about the rest of the week, and also gets me a day off!
+
 **Link**
 
+
+
+***
+
+### Day 34: 2/5/17 (Sunday)
+
+**What I did**
+
+- took quiet time when and where needed
+- balanced breathing now and again
+- Headspace balance day 9
+
+**Reflection**
+
+Lotsa friend time today had me feeling exhausted afterwards. Took it easy, and also helped Erin out a bit, and it made for a good bedtime.
+
+**Link**
+
+***
+
+### Day 35: DATE 2/6/17
+
+**What I did**
+
+- Completed Headspace Balance Path before work! 🙏 🎉
+
+**Reflection**
+
+**Link**
+
+[Headspace Balance Pack Intro](https://www.youtube.com/watch?v=KidKXOxEeg8&feature=youtu.be)
 
 ***
 
