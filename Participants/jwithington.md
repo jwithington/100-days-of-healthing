@@ -518,17 +518,57 @@ Lotsa friend time today had me feeling exhausted afterwards. Took it easy, and a
 
 ***
 
-### Day 35: DATE 2/6/17
+### Day 35: DATE 2/6/17 (Monday)
 
 **What I did**
 
 - Completed Headspace Balance Path before work! 🙏 🎉
+- looooong bath
+- played a video game
+- meditated again at night
+- watched some fun shows
 
 **Reflection**
+
+Goodness that was a great bath. 😄
 
 **Link**
 
 [Headspace Balance Pack Intro](https://www.youtube.com/watch?v=KidKXOxEeg8&feature=youtu.be)
+
+***
+
+### Day 35: 2/7/17 (Tuesday)
+
+**What I did**
+
+Pretty sure...nothing! I don't remember any specific self care stuff this day. Wamp wamp.
+
+***
+
+### Day 36: 2/8/17 (Wednesday)
+
+**What I did**
+
+- doc appointment
+- made a bunch of doc-related calls
+- watched a bunch of tv, solo, under a blanket. So so chill.
+
+**Reflection**
+
+...coulda definitely gone to bed earlier tho!
+
+**Link**
+
+***
+
+### Day 37: 2/9/17 (Thursday)
+
+**What I did**
+
+**Reflection**
+
+**Link**
 
 ***
 
